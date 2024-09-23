@@ -32,22 +32,21 @@ A machine learning model that differentiates between apples and tomatoes using i
 
 
 ### 3. [snake_game](https://github.com/erfan-mahdavi/snake_game)
-.
+I developed a snake game in C++ that challenges players to navigate their snake, represented by @, while competing against a random moving snake, %. Players must avoid walls, eat food to grow, and strategize against the enemy snake. The game features two types of food: X adds 1 to the snake's length, while $ adds 3. The game's competitive twist includes battles where larger snakes can consume the enemy, but if two snake heads collide, both die.
 
-- **Technologies:**  TensorFlow, Keras, OpenCV
-- **Objective:** Build an accurate model for fruit recognition.
-- **Highlights:** Achieved over 80% accuracy on test data after fine-tuning the model's hyperparameters.
+- **Technologies:**  c++
+- **Objective:** Build a snake game
+- **Highlights:** Achieved implementation with intented rules.
 
 ---
 
 ## Technical Skills
-- **Languages:** Python, C++, sql
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, OpenCV, scikit-learn
+- **Languages:** Python, C++, sql, matlab
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, numpy
 - **Tools:** Git, Jupyter Notebook
 
 ---
 
 ## Contact
 - GitHub: [erfan-mahdavi](https://github.com/erfan-mahdavi)
-- LinkedIn: 
 - Email: [s.m.e.m1383@gmail.com]
