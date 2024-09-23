@@ -14,10 +14,10 @@ I enjoy experimenting with new ideas, learning through hands-on projects, and co
 ---
 
 ## Completed Courses:
--Machine Learning Specialization by Andrew Ng.
--deep Learning Specialization by Andrew Ng.
--Deep Learning Course from Resana, provided by the Learned Society of Electrical Engineering, Sharif University of Technology.
--Basic Python Course at Ferdowsi University of Mashhad.
+ -Machine Learning Specialization by Andrew Ng.                                                                                  
+ -deep Learning Specialization by Andrew Ng.                                                                                             
+ -Deep Learning Course from Resana, provided by the Learned Society of Electrical Engineering, Sharif University of Technology.                  
+ -Basic Python Course from the college of Ferdowsi University of Mashhad.                                                                     
 
 ---
 
