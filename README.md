@@ -1,8 +1,8 @@
 # Erfan Mahdavi
 
-**Computer Science Student**  
-Ferdowsi University of Mashhad faculty of mathematics
-Passionate about ML/DL
+ **Computer Science Student**  
+ Ferdowsi University of Mashhad faculty of mathematics.
+ Passionate about ML/DL.
 ---
 
 ## About Me
