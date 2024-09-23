@@ -24,9 +24,9 @@ This project explores latent space representation by comparing  VAE and Conditio
 
 
 ### 2. [Tomato/Apple Recognizer](https://github.com/erfan-mahdavi/tomato-apple-recognizer)
-A machine learning model that differentiates between apples and tomatoes using image classification techniques. The project uses a simple implementation of neaural networks with custom cost function and back prapogation, trained on a custom dataset.
+A machine learning model that differentiates between apples and tomatoes using image classification techniques. The project uses a simple implementation of neaural networks with custom cost function and back propagation, trained on a custom dataset.
 
-- **Technologies:**  scipy,matplot,numpy
+- **Technologies:**  matplot,numpy
 - **Objective:** Build an accurate model for fruit recognition.
 - **Highlights:** Achieved over 80% accuracy on test data after fine-tuning the model's hyperparameters.
 
