@@ -53,6 +53,8 @@ I developed a snake game in C++ that challenges players to navigate their snake,
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, numpy
 - **Tools:** Git, Jupyter Notebook
 
+## Academic resume
+- TA for computer programming
 ---
 
 ## Contact
