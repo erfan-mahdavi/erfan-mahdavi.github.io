@@ -46,6 +46,7 @@ I developed a snake game in C++ that challenges players to navigate their snake,
 - **Objective:** Build a snake game
 - **Highlights:** Achieved implementation with intented rules.
 
+### 4. [DataBase_MovieReviewProject](https://github.com/erfan-mahdavi/snake_game)
 ---
 
 ## Technical Skills
