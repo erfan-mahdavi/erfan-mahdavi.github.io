@@ -48,6 +48,7 @@ I developed a snake game in C++ that challenges players to navigate their snake,
 
 ### 4. [DataBase_MovieReviewProject](https://github.com/erfan-mahdavi/DataBase_movieReviewProject)
 This project involves designing a relational database for a movie review website and developing various queries to retrieve and manipulate the data using mysql.
+
 ---
 
 ## Technical Skills
