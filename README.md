@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. my current projects are mostly about nlp/computervision
+I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. my current projects mostly revolve arround Nlp/ComputerVision
 
 I enjoy experimenting with new ideas, learning through hands-on projects.
 
