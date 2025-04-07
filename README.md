@@ -29,9 +29,9 @@ This project explores latent space representation by comparing  VAE and Conditio
 - **Technologies:** PyTorch, NumPy, Matplotlib ,torchvision
 - **Objective:** Explore latent space distributions of generative models.
 - **Highlights:** Clear visualization and comparison of latent spaces for better insight into class separations.
+### 2.creating dataset of annotated gemstones and rings pictures and deploying fine tuned yolo v8 model on telegram for counting small gemstones and rings, accessed via @Negin_mahdavi_bot
 
-
-### 2. [Tomato/Apple Recognizer](https://github.com/erfan-mahdavi/tomato-apple-recognizer)
+### 3. [Tomato/Apple Recognizer](https://github.com/erfan-mahdavi/tomato-apple-recognizer)
 A machine learning model that differentiates between apples and tomatoes using image classification techniques. The project uses a simple implementation of neaural networks with custom cost function and back propagation, trained on a custom dataset.
 
 - **Technologies:**  matplot,numpy
@@ -39,14 +39,14 @@ A machine learning model that differentiates between apples and tomatoes using i
 - **Highlights:** Achieved over 80% accuracy on test data after fine-tuning the model's hyperparameters.
 
 
-### 3. [snake_game](https://github.com/erfan-mahdavi/snake_game)
+### 4. [snake_game](https://github.com/erfan-mahdavi/snake_game)
 I developed a snake game in C++ that challenges players to navigate their snake, represented by @, while competing against a random moving snake, %. Players must avoid walls, eat food to grow, and strategize against the enemy snake. The game features two types of food: X adds 1 to the snake's length, while $ adds 3. The game's competitive twist includes battles where larger snakes can consume the enemy, but if two snake heads collide, both die.
 
 - **Technologies:**  c++
 - **Objective:** Build a snake game
 - **Highlights:** Achieved implementation with intented rules.
 
-### 4. [DataBase_MovieReviewProject](https://github.com/erfan-mahdavi/DataBase_movieReviewProject)
+### 5. [DataBase_MovieReviewProject](https://github.com/erfan-mahdavi/DataBase_movieReviewProject)
 This project involves designing a relational database for a movie review website and developing various queries to retrieve and manipulate the data using mysql.
 
 ---
