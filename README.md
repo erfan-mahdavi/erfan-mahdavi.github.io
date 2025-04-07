@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. my current projects mostly revolve arround Nlp/ComputerVision
+I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. my current projects mostly revolve around Nlp/ComputerVision
 
 I enjoy experimenting with new ideas, learning through hands-on projects.
 
@@ -30,7 +30,7 @@ This project explores latent space representation by comparing  VAE and Conditio
 - **Objective:** Explore latent space distributions of generative models.
 - **Highlights:** Clear visualization and comparison of latent spaces for better insight into class separations.
 ### 2.detection model
-creating dataset with augmentation of annotated gemstone and ring pictures and deploying fine tuned yolo v8 model on telegram for counting small gemstones and rings, available as @Negin_mahdavi_bot
+creating dataset of annotated gemstone and ring pictures and deploying fine tuned yolo v8 model with augmentation and transfer learning on telegram for counting small gemstones and rings in a picture, available as @Negin_mahdavi_bot
 
 ### 3. [Tomato/Apple Recognizer](https://github.com/erfan-mahdavi/tomato-apple-recognizer)
 A machine learning model that differentiates between apples and tomatoes using image classification techniques. The project uses a simple implementation of neaural networks with custom cost function and back propagation, trained on a custom dataset.
