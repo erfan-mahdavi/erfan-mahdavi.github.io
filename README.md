@@ -7,9 +7,9 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. My current projects explore how these technologies can be applied to image recognition and generative models.
+I am a Computer Science undergraduate at Ferdowsi University of Mashhad, where I focus on machine learning and deep learning. my current projects are mostly about nlp/computervision
 
-I enjoy experimenting with new ideas, learning through hands-on projects, and contributing to open-source communities.
+I enjoy experimenting with new ideas, learning through hands-on projects.
 
 ---
 
@@ -58,7 +58,7 @@ This project involves designing a relational database for a movie review website
 - **Tools:** Git, Jupyter Notebook
 
 ## Academic resume
-- TA for computer programming
+- TA for computer programming, advanced programming, algorithm design and analysis
 ---
 
 ## Contact
