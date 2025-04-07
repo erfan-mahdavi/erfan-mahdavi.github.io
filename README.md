@@ -29,7 +29,8 @@ This project explores latent space representation by comparing  VAE and Conditio
 - **Technologies:** PyTorch, NumPy, Matplotlib ,torchvision
 - **Objective:** Explore latent space distributions of generative models.
 - **Highlights:** Clear visualization and comparison of latent spaces for better insight into class separations.
-### 2.creating dataset of annotated gemstones and rings pictures and deploying fine tuned yolo v8 model on telegram for counting small gemstones and rings, accessed via @Negin_mahdavi_bot
+### 2.detection model
+creating dataset with augmentation of annotated gemstone and ring pictures and deploying fine tuned yolo v8 model on telegram for counting small gemstones and rings, available as @Negin_mahdavi_bot
 
 ### 3. [Tomato/Apple Recognizer](https://github.com/erfan-mahdavi/tomato-apple-recognizer)
 A machine learning model that differentiates between apples and tomatoes using image classification techniques. The project uses a simple implementation of neaural networks with custom cost function and back propagation, trained on a custom dataset.
